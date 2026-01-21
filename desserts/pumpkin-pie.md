@@ -3,7 +3,7 @@
 
 ## Preparation
 
-- Remove seeds
+- Remove seeds (keep these for another recipe!)
 - Bake pumpkin/squash
 - Take out the inside of the pumpkin
 - Use 2 cups of pumpkin pulp per pie
@@ -29,6 +29,10 @@
 - Smash manually until somehow homogeneous
 - Add eggs and blend
 - Add evaporated milk and blend
+
+## Optional extra
+
+- bake the seeds in the oven, use these for the bread recipe
 
 
 ## Baking
